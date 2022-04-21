@@ -186,12 +186,3 @@ section img#mountains_front {
     width: 33.33%;
     padding: 8px;
 }
-
-
-/* Clearfix (clear floats) */
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
