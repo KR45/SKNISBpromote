@@ -186,3 +186,16 @@ section img#mountains_front {
     width: 33.33%;
     padding: 8px;
 }
+
+
+/* iframe */
+
+.video iframe {
+    position: relative;
+    padding: 20px;
+}
+
+.doubt iframe {
+    position: relative;
+    padding: 20px;
+}
