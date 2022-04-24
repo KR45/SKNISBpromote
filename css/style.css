@@ -194,6 +194,7 @@ section img#mountains_front {
 
 .video iframe {
     position: relative;
+    display: block;
     padding: 20px;
 }
 
